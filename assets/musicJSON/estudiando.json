@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "playlist":"estudiar",
+        "artista":"",
+        "nombre" : "Navidad-Villancicos-MichaelBuble-TheChristmasSong",
+        "url":"assets/music/ingleses/01.mp3",
+        "duracion":200
+    },
+    {
+        "id":2,
+        "playlist":"estudiar",
+        "artista":"",
+        "nombre" : "VillancicosIngleses-BoneyM-FelizNavidadIWannaWishYouaMerryChristmas",
+        "url":"assets/music/ingleses/02.mp3",
+        "duracion":448
+    }
+]

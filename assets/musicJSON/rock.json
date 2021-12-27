@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "playlist":"rock",
+        "artista":"",
+        "nombre" : "villancicos_populares-dime_nino-elitenavidad",
+        "url":"assets/music/tradicionales/01.mp3",
+        "duracion":209
+    },
+    {
+        "id":2,
+        "playlist":"rock",
+        "artista":"",
+        "nombre" : "villancicos_populares-arre_borriquito-elitenavidad",
+        "url":"assets/music/tradicionales/02.mp3",
+        "duracion":344
+    },
+    {
+        "id":3,
+        "playlist":"rock",
+        "artista":"",
+        "nombre" : "Villancicos_Populares-25_De_Diciembre-Fam",
+        "url":"assets/music/tradicionales/03.mp3",
+        "duracion":198
+    },
+    {
+        "id":4,
+        "playlist":"rock",
+        "artista":"",
+        "nombre" : "villancicos_populares-los_peces_en_el_rio-fam",
+        "url":"assets/music/tradicionales/04.mp3",
+        "duracion":200
+    },
+    {
+        "id":5,
+        "playlist":"rock",
+        "artista":"",
+        "nombre" : "VillancicosPopulares-Ande,Ande",
+        "url":"assets/music/tradicionales/05.mp3",
+        "duracion":298
+    },
+
+    {
+        "id":6,
+        "playlist":"rock",
+        "artista":"",
+        "nombre" : "villancicos_populares-ya_viene_la_vieja-elitenavidad",
+        "url":"assets/music/tradicionales/06.mp3",
+        "duracion":254
+    },
+    {
+        "id":7,
+        "playlist":"rock",
+        "artista":"",
+        "nombre" : "MusicaNavidena-Villancicos-Cascabel",
+        "url":"assets/music/tradicionales/07.mp3",
+        "duracion":267
+    },
+    {
+        "id":8,
+        "playlist":"rock",
+        "artista":"",
+        "nombre" : "VILLANCICOSPOPULARES.-Navidad.DulceNavidad.",
+        "url":"assets/music/tradicionales/08.mp3",
+        "duracion":362
+    }
+]
