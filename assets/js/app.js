@@ -40,14 +40,14 @@ function cargarInfo(e)
         jsonUrl = 'assets/musicJSON/estudiando.json'
         titlePlay = 'Playlist Villansicos ingleses'
         descripcionPlay = 'Feliz navidad'
-        srcImg = 'assets/img/fondo.png'
-        album.style.background='linear-gradient(to right, rgba(2,2,2,0.726) 15%, rgba(8,8,8,0.829)), url(assets/img/fondo.png)'
+        srcImg = 'assets/img/fondo3.png'
+        album.style.background='linear-gradient(to right, rgba(2,2,2,0.726) 15%, rgba(8,8,8,0.829)), url(assets/img/fondo3.png)'
     } else if (e.target.classList.contains('playRock')) {
         jsonUrl = 'assets/musicJSON/rock.json'
         titlePlay = 'Playlist Villansicos tradicionales'
         descripcionPlay = 'Feliz navidad'
-        srcImg = 'assets/img/fondo.png'
-        album.style.background='linear-gradient(to right, rgba(2,2,2,0.726) 15%, rgba(8,8,8,0.829)), url(assets/img/fondo.png)'
+        srcImg = 'assets/img/fondo2.png'
+        album.style.background='linear-gradient(to right, rgba(2,2,2,0.726) 15%, rgba(8,8,8,0.829)), url(assets/img/fondo2.png)'
     } else if (e.target.classList.contains('playDeporte')) {
         jsonUrl = 'assets/musicJSON/deporte.json'
         titlePlay = 'Playlist Deporte'
